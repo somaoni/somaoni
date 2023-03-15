@@ -1,13 +1,24 @@
 <h1 align="center">Hi 👋, I'm Soma Onishi</h1>
 <h3 align="center">I am a M2 student at Meiji University.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somaonishi&label=Profile%20views&color=0e75b6&style=flat" alt="somaonishi" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=somaonishi&label=Profile%20views&color=0e75b6&style=flat" alt="somaonishi" /> </p> -->
 
 - 🔭 My research is **Deep Learning for Tabular data.**
 
 - 🌱 My research interests are **ML and DL, especially self-supervised learning.**
 
 - 📫 How to reach me **somaonishi4@gmail.com**
+
+<h3 align="left">WORK EXPERIENCE:</h3>
+<h4><a href="https://www.preferred.jp/en/">Preferred Networks Inc.</a>, Tokyo Japan (August 2022- present)</h4>
+
+- Intern
+- Researcher
+
+<h4><a href="https://ghelia.com/">GHELIA Inc.</a>, Tokyo Japan (October 2021- July 2022)</h4>
+
+- Intern
+- Engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
