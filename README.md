@@ -16,16 +16,20 @@
 <h3 align="left">WORK EXPERIENCE:</h3>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
+<h4><a href="https://www.idaj.co.jp/english/">IDAJ Co. LTD.</a>, Kanagawa Japan (April 2023- present)</h4>
 
-<h4><a href="https://www.preferred.jp/en/">Preferred Networks Inc.</a>, Tokyo Japan (August 2022- present)</h4>
+- Intern
+- AI Engineer
+
+<h4><a href="https://www.preferred.jp/en/">Preferred Networks Inc.</a>, Tokyo Japan (August 2022- March 2023)</h4>
 
 - Intern
 - Researcher
 
-<h4><a href="https://ghelia.com/">GHELIA Inc.</a>, Tokyo Japan (October 2021- July 2022)</h4>
+<h4><a href="https://ghelia.com/en/">GHELIA Inc.</a>, Tokyo Japan (October 2021- July 2022)</h4>
 
 - Intern
-- Engineer
+- AI Engineer
 
 <br>
 
