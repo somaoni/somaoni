@@ -19,17 +19,17 @@
 <h4><a href="https://www.idaj.co.jp/english/">IDAJ Co. LTD.</a>, Kanagawa Japan (April 2023- present)</h4>
 
 - Intern
-- AI Engineer
+- AI/ML Engineer
 
 <h4><a href="https://www.preferred.jp/en/">Preferred Networks Inc.</a>, Tokyo Japan (August 2022- March 2023)</h4>
 
 - Intern
-- Researcher
+- AI/ML Researcher
 
 <h4><a href="https://ghelia.com/en/">GHELIA Inc.</a>, Tokyo Japan (October 2021- July 2022)</h4>
 
 - Intern
-- AI Engineer
+- AI/ML Engineer
 
 <br>
 
