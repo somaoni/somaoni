@@ -33,6 +33,14 @@
 
 <br>
 
+<h3 align="left">Publications:</h3>
+
+- **Rethinking Data Augmentation for Tabular Data in Deep Learning** (<a href="https://arxiv.org/abs/2305.10308">link</a>) [May, 2023]
+  - Under review.
+- **TabRet: Pre-training Transformer-based Tabular Models for Unseen Columns** (<a href="https://arxiv.org/abs/2303.15747">link</a>) [March, 2023]
+  - Accepted at the Workshop on Understanding Foundation Models at ICLR 2023.
+  - Work done during internship at Preferred Networks, Inc.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/soom_n_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soom_n_ai" height="30" width="40" /></a>
