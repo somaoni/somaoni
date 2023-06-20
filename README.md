@@ -14,8 +14,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h3 align="left">WORK EXPERIENCE:</h3>
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <h4><a href="https://www.idaj.co.jp/english/">IDAJ Co. LTD.</a>, Kanagawa Japan (April 2023- present)</h4>
 
 - Intern
