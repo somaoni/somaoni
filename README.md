@@ -58,7 +58,7 @@
 <br>
 <a href="https://github.com/somaonishi/">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=somaonishi&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=somaonishi&count_private=true&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://vercel-s5sv.vercel.app/api?username=somaonishi&count_private=true&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=somaonishi&show_icons=true&locale=en&layout=compact&line_height=20&theme=tokyonight" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somaonishi&theme=tokyonight&hide_border=true" width="100%"/>
 
