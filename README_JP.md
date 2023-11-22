@@ -19,17 +19,23 @@
 <h4><a href="https://www.idaj.co.jp/">株式会社 IDAJ</a>, 神奈川県横浜市 (2023年4月 - 現在)</h4>
 
 - インターンシップ(アルバイト)
-- AI/ML エンジニア
+- ML エンジニア
+  - 物理シミュレーションモデルのML置換による高速化
 
 <h4><a href="https://www.preferred.jp/">株式会社 Preferred Networks</a>, 東京都千代田区 (2022年8月- 2023年3月)</h4>
 
 - インターンシップ・アルバイト
-- AI/ML リサーチャー
+- ML リサーチャー
+  - 表形式データにおける大規模事前学習モデルの提案
+    - TabRet: Pre-training Transformer-based Tabular Models for Unseen Columns (<a href="https://arxiv.org/abs/2303.15747">link</a>)
 
 <h4><a href="https://ghelia.com/">GHELIA 株式会社</a>, 東京都台東区 (2021年10月- 2022年7月)</h4>
 
 - インターンシップ(アルバイト)
-- AI/ML Engineer
+- ML Engineer
+  - DL 系 OSS の XAI プラグイン開発
+  - ゲームのグラフィックス系バグの効率的な異常検知の研究開発
+  - 橋梁のサビやボトル抜け等の異常検知
 
 <br>
 
