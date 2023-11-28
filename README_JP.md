@@ -26,8 +26,9 @@
 
 - インターンシップ・アルバイト
 - ML リサーチャー
-  - 表形式データにおける大規模事前学習モデルの提案
+  - 表形式データにおける事前学習モデルの提案
     - TabRet: Pre-training Transformer-based Tabular Models for Unseen Columns (<a href="https://arxiv.org/abs/2303.15747">link</a>)
+    - 事前学習時と fine-tuning 時の分布が異なるデータに対して適用できるモデルの提案
 
 <h4><a href="https://ghelia.com/">GHELIA 株式会社</a>, 東京都台東区 (2021年10月- 2022年7月)</h4>
 
