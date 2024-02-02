@@ -35,8 +35,10 @@
 
 <h3 align="left">Publications:</h3>
 
-- **Rethinking Data Augmentation for Tabular Data in Deep Learning** (<a href="https://arxiv.org/abs/2305.10308">link</a>) [May, 2023]
+- **Why Do Tree Ensemble Approximators Not Outperform the Recursive-Rule eXtraction Algorithm?** (<a href="https://www.preprints.org/manuscript/202401.2212/v1">link</a>) [March, 2024]
   - Under review.
+- **Rethinking Data Augmentation for Tabular Data in Deep Learning** (<a href="https://arxiv.org/abs/2305.10308">link</a>) [May, 2023]
+  - Arxiv.
 - **TabRet: Pre-training Transformer-based Tabular Models for Unseen Columns** (<a href="https://arxiv.org/abs/2303.15747">link</a>) [March, 2023]
   - Accepted at the Workshop on Understanding Foundation Models at ICLR 2023.
   - Work done during internship at Preferred Networks, Inc.
