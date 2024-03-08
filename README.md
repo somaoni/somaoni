@@ -21,8 +21,7 @@
 <h4><a href="https://www.nec.com/">NEC Corporation</a>, Kanagawa Japan (April 2024- Present)</h4>
 
 - Full-time
-- AI/ML Researcher
-- <a href="https://www.nec.com/en/global/rd/labs/biometrics/index.html">Biometrics Research Laboratories</a>
+- AI/ML Researcher @ <a href="https://www.nec.com/en/global/rd/labs/biometrics/index.html">Biometrics Research Laboratories</a>
   
 <h4><a href="https://www.idaj.co.jp/english/">IDAJ Co. LTD.</a>, Kanagawa Japan (April 2023- March 2024)</h4>
 
