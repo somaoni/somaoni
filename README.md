@@ -6,8 +6,6 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=somaonishi&label=Profile%20views&color=0e75b6&style=flat" alt="somaonishi" /> </p>
 
-- 🔭 My research is **Deep Learning for Tabular data.**
-
 - 🌱 My research interests are **ML and DL, especially self-supervised learning.**
 
 - 📫 How to reach me **somaonishi4@gmail.com**
