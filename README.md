@@ -20,10 +20,15 @@
 <h3 align="left">WORK EXPERIENCE:</h3>
 <h4><a href="https://www.idaj.co.jp/english/">IDAJ Co. LTD.</a>, Kanagawa Japan (April 2023- March 2024)</h4>
 
-- Intern
+- Part-time
 - AI/ML Engineer
 
-<h4><a href="https://www.preferred.jp/en/">Preferred Networks Inc.</a>, Tokyo Japan (August 2022- March 2023)</h4>
+<h4><a href="https://www.preferred.jp/en/">Preferred Networks Inc.</a>, Tokyo Japan (October 2022- March 2023)</h4>
+
+- Part-time
+- AI/ML Researcher
+
+<h4><a href="https://www.preferred.jp/en/">Preferred Networks Inc.</a>, Tokyo Japan (August 2022- September 2022)</h4>
 
 - Intern
 - AI/ML Researcher
