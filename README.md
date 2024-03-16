@@ -41,8 +41,8 @@
 
 <h3 align="left">Publications:</h3>
 
-- **Why Do Tree Ensemble Approximators Not Outperform the Recursive-Rule eXtraction Algorithm?** (<a href="https://www.preprints.org/manuscript/202401.2212/v1">link</a>) [March, 2024]
-  - Under review.
+- **Why Do Tree Ensemble Approximators Not Outperform the Recursive-Rule eXtraction Algorithm?** (<a href="https://www.mdpi.com/2504-4990/6/1/31">link</a>) [March, 2024]
+  - Accepted at [Machine Learning and Knowledge Extraction](https://www.mdpi.com/journal/make).
 - **Rethinking Data Augmentation for Tabular Data in Deep Learning** (<a href="https://arxiv.org/abs/2305.10308">link</a>) [May, 2023]
   - Arxiv.
 - **TabRet: Pre-training Transformer-based Tabular Models for Unseen Columns** (<a href="https://arxiv.org/abs/2303.15747">link</a>) [March, 2023]
