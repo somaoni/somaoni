@@ -36,6 +36,12 @@
 
 - Intern
 - AI/ML Engineer
+  - Developed a plug-in for DL application OSS (1 month).
+  - Research and development on efficient anomaly detection of graphic bugs in games (3 months).
+  - Research and development on frame interpolation for animation (3 months).
+  - Research and development on anomaly detection of rust and missing bottles in bridges (1 month).
+
+DeepLで翻訳しました (https://www.deepl.com/app/?utm_source=ios&utm_medium=app&utm_campaign=share-translation)
 
 <br>
 
