@@ -26,6 +26,11 @@
 
 - Part-time
 - AI/ML Researcher
+  - Proposal of pre-trained models for tabular data
+    - TabRet: Pre-training Transformer-based Tabular Models for Unseen Columns ([link](https://arxiv.org/abs/2303.15747))
+      - Accepted at the [Workshop on Understanding Foundation Models at ICLR 2023](https://sites.google.com/view/me-fomo2023).
+      - Code: https://github.com/pfnet-research/tabret
+    - The proposed method can be applied to data with different distributions during pre-training and fine-tuning in tabular data.
 
 <h4><a href="https://www.preferred.jp/en/">Preferred Networks Inc.</a>, Tokyo Japan (August 2022- September 2022)</h4>
 
