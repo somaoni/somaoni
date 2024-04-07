@@ -21,6 +21,8 @@
 
 - Part-time
 - AI/ML Engineer
+  - Creation of physical simulation models
+  - Acceleration through ML replacement of physical simulation models
 
 <h4><a href="https://www.preferred.jp/en/">Preferred Networks Inc.</a>, Tokyo Japan (October 2022- March 2023)</h4>
 
