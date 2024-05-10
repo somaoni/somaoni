@@ -4,7 +4,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=somaonishi&label=Profile%20views&color=0e75b6&style=flat" alt="somaonishi" /> </p>
 
-- 🌱 My research interests are **ML and DL, especially self-supervised learning.**
+- 🌱 My research interests are **ML, DL, and NLP, especially Multimodal in various domains such as language, images, audio, and tabular.**
 
 - 📫 How to reach me **somaonishi4@gmail.com**, **[Google Scholar](https://scholar.google.com/citations?user=uqLQYRkAAAAJ&hl)**
 
