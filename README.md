@@ -16,6 +16,7 @@
 
 - Full-time
 - AI/ML Researcher @ <a href="https://www.nec.com/en/global/rd/labs/biometrics/index.html">Biometrics Research Laboratories</a>
+- NEC github account: https://github.com/somaoni
   
 <h4><a href="https://www.idaj.co.jp/english/">IDAJ Co. LTD.</a>, Kanagawa Japan (April 2023- March 2024)</h4>
 
