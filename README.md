@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Soma Onishi</h1>
-<h3 align="center">I am a researcher at NEC's Biometrics Laboratory.</h3>
+<h3 align="center">I am a researcher at NEC's Biometrics Research Laboratories.</h3>
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=somaonishi&label=Profile%20views&color=0e75b6&style=flat" alt="somaonishi" /> </p>
