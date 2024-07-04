@@ -2,7 +2,7 @@
 <h3 align="center">I am a researcher at NEC's Biometrics Research Laboratories.</h3>
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=somaonishi&label=Profile%20views&color=0e75b6&style=flat" alt="somaonishi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=somaoni&label=Profile%20views&color=0e75b6&style=flat" alt="somaoni" /> </p>
 
 - 🌱 My research interests are **ML, DL, and NLP, especially multimodal in various domains such as language, images, audio, and tabular.**
 
