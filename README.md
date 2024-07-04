@@ -6,7 +6,7 @@
 
 - 🌱 My research interests are **ML, DL, and NLP, especially multimodal in various domains such as language, images, audio, and tabular.**
 
-- 📫 How to reach me **somaonishi4@gmail.com**, **[Google Scholar](https://scholar.google.com/citations?user=uqLQYRkAAAAJ&hl)**
+- 📫 How to reach me **soma-onishi@nec.com**, **[Google Scholar](https://scholar.google.com/citations?user=uqLQYRkAAAAJ&hl)**
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -85,8 +85,7 @@
 <h3>Github Stats</h3>
 <br>
 <a href="https://github.com/somaoni/">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somaonii&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats-kohl-omega.vercel.app/api/top-langs?username=somaoni&show_icons=true&locale=en&layout=compact&line_height=20&theme=tokyonight" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somaoni&theme=tokyonight&hide_border=true" width="100%"/>
+</a>
 
   
